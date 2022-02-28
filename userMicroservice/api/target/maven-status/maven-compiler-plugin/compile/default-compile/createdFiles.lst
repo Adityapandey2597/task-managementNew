@@ -1,0 +1,5 @@
+UserMicroserviceApplication.class
+userservice\UserServiceImpl.class
+userexception\ResourceNotFoundException.class
+usercontroller\UserController.class
+userservice\UserService.class
